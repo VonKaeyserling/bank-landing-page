@@ -1,3 +1,5 @@
+$baseUrl: "https://josephgabriel.github.io/bank-landing-page/";
+
 .hero {
   background: $veryLightGray;
 
@@ -10,7 +12,7 @@
 
   &__image {
     position: relative;
-    background-image: url("./images/bg-intro-mobile.svg");
+    background-image: url("https://josephgabriel.github.io/bank-landing-page/images/bg-intro-mobile.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -32,7 +34,7 @@
     &::before {
       content: "";
       position: absolute;
-      background-image: url("./images/bg-intro-desktop.svg");
+      background-image: url("https://josephgabriel.github.io/bank-landing-page/images/bg-intro-desktop.svg");
       background-size: 93%;
       background-position: center bottom;
       background-repeat: no-repeat;
@@ -49,7 +51,7 @@
     &::after {
       content: "";
       position: absolute;
-      background-image: url("./images/image-mockups.png");
+      background-image: url("https://josephgabriel.github.io/bank-landing-page/images/image-mockups.png");
       background-size: 93%;
       background-position: center bottom;
       background-repeat: no-repeat;
